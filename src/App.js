@@ -12,7 +12,7 @@ import Team from './pages/Team'
 import Testimonial from './pages/Testimonial'
 import Error from './pages/Error'
 import Contact from './pages/Contact'
-import { Package1 } from './pages/Package1'
+import  Package1  from './pages/Package1'
 import "slick-carousel/slick/slick.css";
 import "slick-carousel/slick/slick-theme.css";
 
