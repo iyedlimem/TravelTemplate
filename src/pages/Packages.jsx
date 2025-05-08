@@ -118,14 +118,14 @@ function Packages() {
                 </p>
                 <div className="d-flex justify-content-center mb-2">
                   <a
-                    href="#"
+                    href="/"
                     className="btn btn-sm btn-primary px-3 border-end"
                     style={{ borderRadius: "30px 0 0 30px" }}
                   >
                     Read More
                   </a>
                   <a
-                    href="#"
+                    href="/"
                     className="btn btn-sm btn-primary px-3"
                     style={{ borderRadius: "0 30px 30px 0" }}
                   >
@@ -167,14 +167,14 @@ function Packages() {
                 </p>
                 <div className="d-flex justify-content-center mb-2">
                   <a
-                    href="#"
+                    href="/"
                     className="btn btn-sm btn-primary px-3 border-end"
                     style={{ borderRadius: "30px 0 0 30px" }}
                   >
                     Read More
                   </a>
                   <a
-                    href="#"
+                    href="/"
                     className="btn btn-sm btn-primary px-3"
                     style={{ borderRadius: "0 30px 30px 0" }}
                   >
@@ -225,14 +225,14 @@ function Packages() {
                 </p>
                 <div className="d-flex justify-content-center mb-2">
                   <a
-                    href="#"
+                    href="/"
                     className="btn btn-sm btn-primary px-3 border-end"
                     style={{ borderRadius: "30px 0 0 30px" }}
                   >
                     Read More
                   </a>
                   <a
-                    href="#"
+                    href="/"
                     className="btn btn-sm btn-primary px-3"
                     style={{ borderRadius: "0 30px 30px 0" }}
                   >
@@ -274,14 +274,14 @@ function Packages() {
                 </p>
                 <div className="d-flex justify-content-center mb-2">
                   <a
-                    href="#"
+                    href="/"
                     className="btn btn-sm btn-primary px-3 border-end"
                     style={{ borderRadius: "30px 0 0 30px" }}
                   >
                     Read More
                   </a>
                   <a
-                    href="#"
+                    href="/"
                     className="btn btn-sm btn-primary px-3"
                     style={{ borderRadius: "0 30px 30px 0" }}
                   >
@@ -323,14 +323,14 @@ function Packages() {
                 </p>
                 <div className="d-flex justify-content-center mb-2">
                   <a
-                    href="#"
+                    href="/"
                     className="btn btn-sm btn-primary px-3 border-end"
                     style={{ borderRadius: "30px 0 0 30px" }}
                   >
                     Read More
                   </a>
                   <a
-                    href="#"
+                    href="/"
                     className="btn btn-sm btn-primary px-3"
                     style={{ borderRadius: "0 30px 30px 0" }}
                   >
