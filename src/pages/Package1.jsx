@@ -1,7 +1,7 @@
 import React from 'react'
 import { Link } from 'react-router-dom'
 
-export const Package1 = () => {
+function Package1 ()  {
     return (
         <div>
             <div className="container-fluid bg-primary py-5 mb-5 hero-header">
@@ -176,3 +176,4 @@ export const Package1 = () => {
         </div>
     )
 }
+export default Package1
