@@ -50,7 +50,7 @@ function Team() {
                 <a className="btn btn-square mx-1" href="/">
                   <i className="fab fa-twitter" />
                 </a>
-                <a className="btn btn-square mx-1" href="">
+                <a className="btn btn-square mx-1" href="/">
                   <i className="fab fa-instagram" />
                 </a>
               </div>
