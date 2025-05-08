@@ -1,7 +1,7 @@
 import React from 'react'
 import { Link } from 'react-router-dom'
 
-export const Package1 = () => {
+function PackageOne ()  {
     return (
         <div>
             <div className="container-fluid bg-primary py-5 mb-5 hero-header">
@@ -37,7 +37,7 @@ export const Package1 = () => {
                             Experience Tanzania’s mesmerising beauty in 11 days on our Tanzania Safari & Zanzibar travel adventure! From discovering the wildlife on an African safari to basking on the tropical beaches of Zanzibar : Get the most out of your time in Tanzania.
                         </p>
                         <p className='mb-4'>
-                            This private luxury safari offers you the opportunity to experience Tanzania at your own pace. Travel to the famous <a href="#">Serengeti National Park</a> and <a href="#">Ngorongoro Crater</a> with your experienced English-speaking guide, and enjoy the comfort and safety of your own private safari vehicle. Let majestic elephants and tropical birds in the Tarangire National Park inspire you, and end a perfect Tanzania itinerary by soaking up the sun on the white sandy beaches of Zanzibar.
+                            This private luxury safari offers you the opportunity to experience Tanzania at your own pace. Travel to the famous <a href="/">Serengeti National Park</a> and <a href="/">Ngorongoro Crater</a> with your experienced English-speaking guide, and enjoy the comfort and safety of your own private safari vehicle. Let majestic elephants and tropical birds in the Tarangire National Park inspire you, and end a perfect Tanzania itinerary by soaking up the sun on the white sandy beaches of Zanzibar.
                         </p>
                         {/* Images Carousel */}
                         <div id="safariCarousel" className="carousel slide mb-4" data-bs-ride="carousel">
@@ -176,3 +176,5 @@ export const Package1 = () => {
         </div>
     )
 }
+
+export default PackageOne

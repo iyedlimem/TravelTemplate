@@ -44,10 +44,10 @@ function Team() {
                 className="position-relative d-flex justify-content-center"
                 style={{ marginTop: "-19px" }}
               >
-                <a className="btn btn-square mx-1" href="">
+                <a className="btn btn-square mx-1" href="/">
                   <i className="fab fa-facebook-f" />
                 </a>
-                <a className="btn btn-square mx-1" href="">
+                <a className="btn btn-square mx-1" href="/">
                   <i className="fab fa-twitter" />
                 </a>
                 <a className="btn btn-square mx-1" href="">
@@ -69,13 +69,13 @@ function Team() {
                 className="position-relative d-flex justify-content-center"
                 style={{ marginTop: "-19px" }}
               >
-                <a className="btn btn-square mx-1" href="">
+                <a className="btn btn-square mx-1" href="/">
                   <i className="fab fa-facebook-f" />
                 </a>
-                <a className="btn btn-square mx-1" href="">
+                <a className="btn btn-square mx-1" href="/">
                   <i className="fab fa-twitter" />
                 </a>
-                <a className="btn btn-square mx-1" href="">
+                <a className="btn btn-square mx-1" href="/">
                   <i className="fab fa-instagram" />
                 </a>
               </div>
@@ -94,13 +94,13 @@ function Team() {
                 className="position-relative d-flex justify-content-center"
                 style={{ marginTop: "-19px" }}
               >
-                <a className="btn btn-square mx-1" href="">
+                <a className="btn btn-square mx-1" href="/">
                   <i className="fab fa-facebook-f" />
                 </a>
-                <a className="btn btn-square mx-1" href="">
+                <a className="btn btn-square mx-1" href="/">
                   <i className="fab fa-twitter" />
                 </a>
-                <a className="btn btn-square mx-1" href="">
+                <a className="btn btn-square mx-1" href="/">
                   <i className="fab fa-instagram" />
                 </a>
               </div>
@@ -119,13 +119,13 @@ function Team() {
                 className="position-relative d-flex justify-content-center"
                 style={{ marginTop: "-19px" }}
               >
-                <a className="btn btn-square mx-1" href="">
+                <a className="btn btn-square mx-1" href="/">
                   <i className="fab fa-facebook-f" />
                 </a>
-                <a className="btn btn-square mx-1" href="">
+                <a className="btn btn-square mx-1" href="/">
                   <i className="fab fa-twitter" />
                 </a>
-                <a className="btn btn-square mx-1" href="">
+                <a className="btn btn-square mx-1" href="/">
                   <i className="fab fa-instagram" />
                 </a>
               </div>
@@ -144,13 +144,13 @@ function Team() {
                 className="position-relative d-flex justify-content-center"
                 style={{ marginTop: "-19px" }}
               >
-                <a className="btn btn-square mx-1" href="">
+                <a className="btn btn-square mx-1" href="/">
                   <i className="fab fa-facebook-f" />
                 </a>
-                <a className="btn btn-square mx-1" href="">
+                <a className="btn btn-square mx-1" href="/">
                   <i className="fab fa-twitter" />
                 </a>
-                <a className="btn btn-square mx-1" href="">
+                <a className="btn btn-square mx-1" href="/">
                   <i className="fab fa-instagram" />
                 </a>
               </div>
@@ -169,13 +169,13 @@ function Team() {
                 className="position-relative d-flex justify-content-center"
                 style={{ marginTop: "-19px" }}
               >
-                <a className="btn btn-square mx-1" href="">
+                <a className="btn btn-square mx-1" href="/">
                   <i className="fab fa-facebook-f" />
                 </a>
-                <a className="btn btn-square mx-1" href="">
+                <a className="btn btn-square mx-1" href="/">
                   <i className="fab fa-twitter" />
                 </a>
-                <a className="btn btn-square mx-1" href="">
+                <a className="btn btn-square mx-1" href="/">
                   <i className="fab fa-instagram" />
                 </a>
               </div>
@@ -194,13 +194,13 @@ function Team() {
                 className="position-relative d-flex justify-content-center"
                 style={{ marginTop: "-19px" }}
               >
-                <a className="btn btn-square mx-1" href="">
+                <a className="btn btn-square mx-1" href="/">
                   <i className="fab fa-facebook-f" />
                 </a>
-                <a className="btn btn-square mx-1" href="">
+                <a className="btn btn-square mx-1" href="/">
                   <i className="fab fa-twitter" />
                 </a>
-                <a className="btn btn-square mx-1" href="">
+                <a className="btn btn-square mx-1" href="/">
                   <i className="fab fa-instagram" />
                 </a>
               </div>
@@ -219,13 +219,13 @@ function Team() {
                 className="position-relative d-flex justify-content-center"
                 style={{ marginTop: "-19px" }}
               >
-                <a className="btn btn-square mx-1" href="">
+                <a className="btn btn-square mx-1" href="/">
                   <i className="fab fa-facebook-f" />
                 </a>
-                <a className="btn btn-square mx-1" href="">
+                <a className="btn btn-square mx-1" href="/">
                   <i className="fab fa-twitter" />
                 </a>
-                <a className="btn btn-square mx-1" href="">
+                <a className="btn btn-square mx-1" href="/">
                   <i className="fab fa-instagram" />
                 </a>
               </div>

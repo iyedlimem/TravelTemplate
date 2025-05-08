@@ -12,7 +12,7 @@ import Team from './pages/Team'
 import Testimonial from './pages/Testimonial'
 import Error from './pages/Error'
 import Contact from './pages/Contact'
-import { Package1 } from './pages/Package1'
+import  PackageOne  from './pages/PackageOne'
 import "slick-carousel/slick/slick.css";
 import "slick-carousel/slick/slick-theme.css";
 
@@ -21,6 +21,7 @@ export default function App() {
     <div>
         <Header />
         <Routes>
+        <Route path='/PackageOne' element={<PackageOne/>}/>
         <Route path='/' element={<Home/>}/>
         <Route path='/about' element={<About/>}/>
         <Route path='/services' element={<Services/>}/>
@@ -31,7 +32,7 @@ export default function App() {
         <Route path='/testimonial' element={<Testimonial/>}/>
         <Route path='/error' element={<Error/>}/>
         <Route path='/contact' element={<Contact/>}/>
-        <Route path='/package1' element={<Package1/>}/>
+        
         </Routes>
         <Footer />
     </div>

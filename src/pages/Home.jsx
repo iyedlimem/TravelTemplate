@@ -368,7 +368,7 @@ export default function Home() {
                     </p>
                     <div className="d-flex justify-content-center mb-2">
                       <a
-                        href="/package1"
+                        href="/PackageOne"
                         className="btn btn-sm btn-primary px-3 border-end"
                         style={{ borderRadius: "30px 0 0 30px" }}
                       >
@@ -417,7 +417,7 @@ export default function Home() {
                     </p>
                     <div className="d-flex justify-content-center mb-2">
                       <a
-                        href="/package1"
+                        href="/PackageOne"
                         className="btn btn-sm btn-primary px-3 border-end"
                         style={{ borderRadius: "30px 0 0 30px" }}
                       >
@@ -466,7 +466,7 @@ export default function Home() {
                     </p>
                     <div className="d-flex justify-content-center mb-2">
                       <a
-                        href="/package1"
+                        href="/PackageOne"
                         className="btn btn-sm btn-primary px-3 border-end"
                         style={{ borderRadius: "30px 0 0 30px" }}
                       >
